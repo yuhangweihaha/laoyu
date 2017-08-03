@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+li{list-style: none}
+.swiper-container{
+	width:100%;height:2rem; 
+}
+.swiper-wrapper{
+	width:600%;height:2rem;display: flex;
+}
+.swiper-slide{
+	width:100%;height:2rem;
+	 img{
+		width: 100%;height: 100%;
+	}  
+}
